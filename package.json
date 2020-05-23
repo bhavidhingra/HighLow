@@ -1,0 +1,21 @@
+{
+  "name": "highlow",
+  "version": "1.0.0",
+  "main": "\"\"",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.7.0",
+    "mocha": "^6.2.0",
+    "truffle": "^5.0.36",
+    "web3": "^1.2.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}

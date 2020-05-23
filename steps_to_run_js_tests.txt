@@ -1,0 +1,5 @@
+npm install --save ganache-cli mocha web3
+npm init
+npm i truffle
+truffle compile
+npm run test
